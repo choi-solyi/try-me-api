@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J/bVBfY9mfYfFNwL6VdBheR/ic3c8cFdavl4s5HOo95C77bhfmbI+p+1R6mzSELFZ2FboTWgYU0HuyMvnG2crA==",
+  "dgSpecHash": "uYPiaMj2x+pDsoyVuhjaGUMsdUPtwloNv1rpx4qNY3uiO+j56gWTvCbn3Fzq3WwuafEOTKV87IsWAI2C7pPLEQ==",
   "success": true,
-  "projectFilePath": "D:\\91.solyi\\vuep\\vuep\\vuep.csproj",
+  "projectFilePath": "D:\\91.solyi\\vsserver\\vuep\\tryme.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\choi-so\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\6.0.9\\microsoft.aspnetcore.diagnostics.entityframeworkcore.6.0.9.nupkg.sha512",
     "C:\\Users\\choi-so\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\91.solyi\\vsserver\\vuep\\vuep.csproj": {}
+    "D:\\91.solyi\\vsserver\\vuep\\tryme.csproj": {}
   },
   "projects": {
-    "D:\\91.solyi\\vsserver\\vuep\\vuep.csproj": {
+    "D:\\91.solyi\\vsserver\\vuep\\tryme.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\91.solyi\\vsserver\\vuep\\vuep.csproj",
-        "projectName": "vuep",
-        "projectPath": "D:\\91.solyi\\vsserver\\vuep\\vuep.csproj",
+        "projectUniqueName": "D:\\91.solyi\\vsserver\\vuep\\tryme.csproj",
+        "projectName": "tryme",
+        "projectPath": "D:\\91.solyi\\vsserver\\vuep\\tryme.csproj",
         "packagesPath": "C:\\Users\\choi-so\\.nuget\\packages\\",
         "outputPath": "D:\\91.solyi\\vsserver\\vuep\\obj\\",
         "projectStyle": "PackageReference",

@@ -2020,11 +2020,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\91.solyi\\vuep\\vuep\\vuep.csproj",
-      "projectName": "vuep",
-      "projectPath": "D:\\91.solyi\\vuep\\vuep\\vuep.csproj",
+      "projectUniqueName": "D:\\91.solyi\\vsserver\\vuep\\tryme.csproj",
+      "projectName": "tryme",
+      "projectPath": "D:\\91.solyi\\vsserver\\vuep\\tryme.csproj",
       "packagesPath": "C:\\Users\\choi-so\\.nuget\\packages\\",
-      "outputPath": "D:\\91.solyi\\vuep\\vuep\\obj\\",
+      "outputPath": "D:\\91.solyi\\vsserver\\vuep\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\choi-so\\AppData\\Roaming\\NuGet\\NuGet.Config",
